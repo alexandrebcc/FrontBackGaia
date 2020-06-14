@@ -1,1 +1,8 @@
+#js
 node_modules/
+
+#python
+bin/
+lib/
+share/
+pyvenv.cfg
